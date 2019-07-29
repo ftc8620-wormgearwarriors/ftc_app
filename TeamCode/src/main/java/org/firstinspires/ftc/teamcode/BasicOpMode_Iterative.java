@@ -68,6 +68,8 @@ public class BasicOpMode_Iterative extends OpMode
 
         // now it's with the same name as the original file
 
+        // a new comment to show in a commit
+
         // Initialize the hardware variables. Note that the strings used here as parameters
         // to 'get' must correspond to the names assigned during the robot configuration
         // step (using the FTC Robot Controller app on the phone).
